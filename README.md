@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rai-deepak-1024/leetcode/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/rai-deepak-1024/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rai-deepak-1024/leetcode/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/rai-deepak-1024/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
